@@ -29,6 +29,14 @@ bower_components
 # node-waf configuration
 .lock-wscript
 
+.firbaserc
+firebase.json
+.DS_Store
+.firebase/
+.firebaserc
+public/.DS_Store
+
+
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
 

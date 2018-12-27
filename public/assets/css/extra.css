@@ -1,0 +1,8 @@
+.split-half {
+    height: 50%;
+}
+
+.film-img {
+    height: 100%;
+    object-fit: cover;
+}
